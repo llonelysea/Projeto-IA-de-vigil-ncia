@@ -1,0 +1,25 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    background-color: rgb(45, 45, 104);
+}
+
+#status, #numberOfObjects, #start{
+    font-size: 18px;
+    background-color: rgb(45, 45, 104) ;
+}
+
+.copyrightFooter{
+    position: fixed;
+    color:rgb(45, 45, 104);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(200, 200, 236);
+    line-height: 2;
+    text-align: center;
+}
